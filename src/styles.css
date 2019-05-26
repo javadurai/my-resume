@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
 
 body {
-  /* background-image: url("texture.jpg"); */
+  background-image: url("texture2.jpg");
   font-family: "Oswald", sans-serif !important;
 }
 
@@ -11,4 +11,12 @@ body {
 
 .text-underlined {
   text-decoration: underline;
+}
+
+.text-main {
+  color: #4b545c !important;
+}
+
+.bg-main {
+  background-color: #4b545c !important;
 }

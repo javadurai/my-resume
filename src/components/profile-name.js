@@ -8,7 +8,7 @@ export default class ProfileName extends React.Component {
     return (
       <div className="text-center">
         <h1 className="display-4">
-          <span class="profile-name text-uppercase">
+          <span class="profile-name text-main text-uppercase">
             {data.firstname} {data.lastname}
           </span>
         </h1>

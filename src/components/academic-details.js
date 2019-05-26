@@ -7,7 +7,7 @@ export default class AcademicDetails extends React.Component {
 
     return (
       <div className="academic">
-        <h2 className="text-uppercase text-center text-underlined">
+        <h2 className="text-uppercase text-main text-center text-underlined">
           Academic Details
         </h2>
         <table className="table">

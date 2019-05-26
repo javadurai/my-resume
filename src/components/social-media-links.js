@@ -9,7 +9,7 @@ export default class SocialMediaLinks extends React.Component {
     return (
       <footer className="bg-light">
         <hr />
-        <div className="text-center center-block text-secondary">
+        <div className="text-center text-main center-block text-secondary">
           <p className="txt-railway">- Contact @ -</p>
           {data.map(social => {
             return <SocialMediaLink key={social.type} data={social} />;

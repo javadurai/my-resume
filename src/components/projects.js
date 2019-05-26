@@ -8,7 +8,9 @@ export default class Projects extends React.Component {
 
     return (
       <div className="projects">
-        <h2 className="text-uppercase text-center text-underlined">Projects</h2>
+        <h2 className="text-uppercase text-main text-center text-underlined">
+          Projects
+        </h2>
         {data.map(project => {
           return <Project key={project.toString()} data={project} />;
         })}

@@ -7,7 +7,7 @@ export default class Achievements extends React.Component {
 
     return (
       <div className="achievements">
-        <h2 className="text-uppercase text-center text-underlined">
+        <h2 className="text-uppercase text-main text-center text-underlined">
           Achievements
         </h2>
         <ul>

@@ -9,7 +9,7 @@ class ProfessionalExperience extends React.Component {
       <div className="card mb-3 d-md-block">
         <div className="card-body text-center">
           <div className="professional-experience">
-            <h2 className="text-uppercase text-underlined">
+            <h2 className="text-uppercase text-main text-underlined">
               Professional Experience
             </h2>
             <ul>

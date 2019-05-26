@@ -7,7 +7,7 @@ export default class SocialMediaLink extends React.Component {
 
     return (
       <a href={data.url} className="mr-2 ml-2 text-secondary">
-        <i class={"fa fa-" + data.type + "-square fa-3x social"} />
+        <i className={"fa fa-" + data.type + "-square fa-3x social"} />
       </a>
     );
   }

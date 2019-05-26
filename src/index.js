@@ -46,7 +46,7 @@ export default class App extends React.Component {
       <div className="container">
         <div className="App">
           <div className="row">
-            <div className="col-sm-4 bg-secondary text-secondary">
+            <div className="col-sm-4 bg-main text-secondary">
               <ProfileImage data={data.picture} />
               <ContactDetails data={data.contact} />
               <hr className="bg-white" />

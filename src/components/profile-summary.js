@@ -7,10 +7,17 @@ export default class ProfileSummary extends React.Component {
 
     return (
       <div className="summary">
-        <h2 className="text-uppercase text-center text-underlined">Summary</h2>
+        <h2 className="text-uppercase text-main text-center text-underlined">
+          Summary
+        </h2>
         <ul>
           {data.map(rec => {
-            return <li key={rec.toString()}>{rec}</li>;
+            return (
+              <li key={rec.toString()}>
+                <i className="fa fa-java" />
+                {rec}
+              </li>
+            );
           })}
         </ul>
       </div>
