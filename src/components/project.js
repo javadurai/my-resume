@@ -1,9 +1,6 @@
 import React from "react";
 
 export default class Project extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     const data = this.props.data;
     if (data === undefined) return <div />;

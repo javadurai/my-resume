@@ -1,19 +1,15 @@
 import React from "react";
 
 export default class ContactDetails extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     const data = this.props.data;
-    if (data == undefined) return <div />;
+    if (data === undefined) return <div />;
 
     return (
-      <div class="card mb-3 d-md-block">
+      <div class="card mb-3">
         <div class="card-body text-center">
           <div className="Address">
-            <h2 className="text-uppercase">Contact</h2>
+            <h2 className="text-uppercase text-underlined">Contact</h2>
             <address>
               {data.address}
               <br />

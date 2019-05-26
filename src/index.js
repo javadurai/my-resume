@@ -42,8 +42,6 @@ export default class App extends React.Component {
       return <div className="container" />;
     }
 
-    console.log(data.social);
-
     return (
       <div className="container">
         <div className="App">

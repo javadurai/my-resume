@@ -1,16 +1,15 @@
 import React from "react";
 
 export default class AcademicDetails extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     const data = this.props.data;
-    if (data == undefined) return <div />;
+    if (data === undefined) return <div />;
 
     return (
       <div className="academic">
-        <h2 className="text-uppercase">Academic Details</h2>
+        <h2 className="text-uppercase text-center text-underlined">
+          Academic Details
+        </h2>
         <table className="table">
           <thead className="thead-light">
             <tr>

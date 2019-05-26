@@ -8,3 +8,7 @@ body {
 .profile-name {
   letter-spacing: 2px;
 }
+
+.text-underlined {
+  text-decoration: underline;
+}
