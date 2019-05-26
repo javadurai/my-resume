@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/javadurai/my-resume/static/css/main.e052ad3f.chunk.css",
-    "main.js": "/javadurai/my-resume/static/js/main.ad61e157.chunk.js",
-    "main.js.map": "/javadurai/my-resume/static/js/main.ad61e157.chunk.js.map",
+    "main.css": "/javadurai/my-resume/static/css/main.3a4ec4cb.chunk.css",
+    "main.js": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js",
+    "main.js.map": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js.map",
     "runtime~main.js": "/javadurai/my-resume/static/js/runtime~main.2bac32f4.js",
     "runtime~main.js.map": "/javadurai/my-resume/static/js/runtime~main.2bac32f4.js.map",
     "static/css/2.8c8fa9f0.chunk.css": "/javadurai/my-resume/static/css/2.8c8fa9f0.chunk.css",
     "static/js/2.2f3789a4.chunk.js": "/javadurai/my-resume/static/js/2.2f3789a4.chunk.js",
     "static/js/2.2f3789a4.chunk.js.map": "/javadurai/my-resume/static/js/2.2f3789a4.chunk.js.map",
     "index.html": "/javadurai/my-resume/index.html",
-    "precache-manifest.606985f62cf939b793088dfe47fdd71c.js": "/javadurai/my-resume/precache-manifest.606985f62cf939b793088dfe47fdd71c.js",
+    "precache-manifest.9a5e6e87afabbcc20a3a9d943ce0241b.js": "/javadurai/my-resume/precache-manifest.9a5e6e87afabbcc20a3a9d943ce0241b.js",
     "service-worker.js": "/javadurai/my-resume/service-worker.js",
     "static/css/2.8c8fa9f0.chunk.css.map": "/javadurai/my-resume/static/css/2.8c8fa9f0.chunk.css.map",
-    "static/css/main.e052ad3f.chunk.css.map": "/javadurai/my-resume/static/css/main.e052ad3f.chunk.css.map",
-    "static/media/font-awesome.css": "/javadurai/my-resume/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/css/main.3a4ec4cb.chunk.css.map": "/javadurai/my-resume/static/css/main.3a4ec4cb.chunk.css.map",
+    "static/media/font-awesome.css": "/javadurai/my-resume/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/styles.css": "/javadurai/my-resume/static/media/texture2.ab9ff1af.jpg"
   }
 }

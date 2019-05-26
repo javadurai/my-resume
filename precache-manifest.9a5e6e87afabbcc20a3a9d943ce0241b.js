@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cbd56cca8f5c28e04f0c493c73e38e8",
+    "revision": "6bbd886eaa7d4e45e6936c109e72af52",
     "url": "/javadurai/my-resume/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/javadurai/my-resume/static/css/2.8c8fa9f0.chunk.css"
   },
   {
-    "revision": "d9bac472db7f3e949faf",
-    "url": "/javadurai/my-resume/static/css/main.e052ad3f.chunk.css"
+    "revision": "31f0324ab2a46cbd5a42",
+    "url": "/javadurai/my-resume/static/css/main.3a4ec4cb.chunk.css"
   },
   {
     "revision": "9a9c773ffa31f4decaf6",
     "url": "/javadurai/my-resume/static/js/2.2f3789a4.chunk.js"
   },
   {
-    "revision": "d9bac472db7f3e949faf",
-    "url": "/javadurai/my-resume/static/js/main.ad61e157.chunk.js"
+    "revision": "31f0324ab2a46cbd5a42",
+    "url": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js"
   },
   {
     "revision": "151fc07dc412f67342e7",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/javadurai/my-resume/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "ab9ff1af138f918e63f95632f5aa1085",
+    "url": "/javadurai/my-resume/static/media/texture2.ab9ff1af.jpg"
   }
 ]);
