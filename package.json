@@ -15,7 +15,7 @@
     "react-image-resizer": "^1.3.0",
     "react-scripts": "3.0.1"
   },
-  "homepage": "https://github.com/javadurai/resume",
+  "homepage": "https://github.com/javadurai/my-resume",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
