@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84b6b38732b986e5b4a78af253173138",
+    "revision": "5117e42b8be3ae1aece8c90b346f5350",
     "url": "/javadurai/resume/index.html"
   },
   {
-    "revision": "2dce2d0ca2fd9240e722",
+    "revision": "c4647c73a3bea47ebb7a",
     "url": "/javadurai/resume/static/css/2.295f6dc1.chunk.css"
   },
   {
-    "revision": "548a0e594438b245015a",
-    "url": "/javadurai/resume/static/css/main.6f2078a9.chunk.css"
+    "revision": "d9bac472db7f3e949faf",
+    "url": "/javadurai/resume/static/css/main.e052ad3f.chunk.css"
   },
   {
-    "revision": "2dce2d0ca2fd9240e722",
-    "url": "/javadurai/resume/static/js/2.ff241af8.chunk.js"
+    "revision": "c4647c73a3bea47ebb7a",
+    "url": "/javadurai/resume/static/js/2.2f3789a4.chunk.js"
   },
   {
-    "revision": "548a0e594438b245015a",
-    "url": "/javadurai/resume/static/js/main.031307c0.chunk.js"
+    "revision": "d9bac472db7f3e949faf",
+    "url": "/javadurai/resume/static/js/main.ad61e157.chunk.js"
   },
   {
     "revision": "33d8b054010149174fcb",
