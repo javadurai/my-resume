@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/javadurai/resume/static/css/main.6f2078a9.chunk.css",
+    "main.js": "/javadurai/resume/static/js/main.031307c0.chunk.js",
+    "main.js.map": "/javadurai/resume/static/js/main.031307c0.chunk.js.map",
+    "runtime~main.js": "/javadurai/resume/static/js/runtime~main.d382a5c0.js",
+    "runtime~main.js.map": "/javadurai/resume/static/js/runtime~main.d382a5c0.js.map",
+    "static/css/2.295f6dc1.chunk.css": "/javadurai/resume/static/css/2.295f6dc1.chunk.css",
+    "static/js/2.ff241af8.chunk.js": "/javadurai/resume/static/js/2.ff241af8.chunk.js",
+    "static/js/2.ff241af8.chunk.js.map": "/javadurai/resume/static/js/2.ff241af8.chunk.js.map",
+    "index.html": "/javadurai/resume/index.html",
+    "precache-manifest.be695e3dfe26229c4f1725ac04f5b07a.js": "/javadurai/resume/precache-manifest.be695e3dfe26229c4f1725ac04f5b07a.js",
+    "service-worker.js": "/javadurai/resume/service-worker.js",
+    "static/css/2.295f6dc1.chunk.css.map": "/javadurai/resume/static/css/2.295f6dc1.chunk.css.map",
+    "static/css/main.6f2078a9.chunk.css.map": "/javadurai/resume/static/css/main.6f2078a9.chunk.css.map",
+    "static/media/font-awesome.css": "/javadurai/resume/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
