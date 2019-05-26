@@ -1,19 +1,17 @@
 {
-  "files": {
-    "main.css": "/javadurai/my-resume/static/css/main.3a4ec4cb.chunk.css",
-    "main.js": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js",
-    "main.js.map": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js.map",
-    "runtime~main.js": "/javadurai/my-resume/static/js/runtime~main.2bac32f4.js",
-    "runtime~main.js.map": "/javadurai/my-resume/static/js/runtime~main.2bac32f4.js.map",
-    "static/css/2.8c8fa9f0.chunk.css": "/javadurai/my-resume/static/css/2.8c8fa9f0.chunk.css",
-    "static/js/2.2f3789a4.chunk.js": "/javadurai/my-resume/static/js/2.2f3789a4.chunk.js",
-    "static/js/2.2f3789a4.chunk.js.map": "/javadurai/my-resume/static/js/2.2f3789a4.chunk.js.map",
-    "index.html": "/javadurai/my-resume/index.html",
-    "precache-manifest.9a5e6e87afabbcc20a3a9d943ce0241b.js": "/javadurai/my-resume/precache-manifest.9a5e6e87afabbcc20a3a9d943ce0241b.js",
-    "service-worker.js": "/javadurai/my-resume/service-worker.js",
-    "static/css/2.8c8fa9f0.chunk.css.map": "/javadurai/my-resume/static/css/2.8c8fa9f0.chunk.css.map",
-    "static/css/main.3a4ec4cb.chunk.css.map": "/javadurai/my-resume/static/css/main.3a4ec4cb.chunk.css.map",
-    "static/media/font-awesome.css": "/javadurai/my-resume/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/styles.css": "/javadurai/my-resume/static/media/texture2.ab9ff1af.jpg"
-  }
+  "main.css": "/javadurai/my-resume/static/css/main.5d688a23.chunk.css",
+  "main.js": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js",
+  "main.js.map": "/javadurai/my-resume/static/js/main.5999e7de.chunk.js.map",
+  "runtime~main.js": "/javadurai/my-resume/static/js/runtime~main.2bac32f4.js",
+  "runtime~main.js.map": "/javadurai/my-resume/static/js/runtime~main.2bac32f4.js.map",
+  "static/css/2.b78eee94.chunk.css": "/javadurai/my-resume/static/css/2.b78eee94.chunk.css",
+  "static/js/2.cbff8f61.chunk.js": "/javadurai/my-resume/static/js/2.cbff8f61.chunk.js",
+  "static/js/2.cbff8f61.chunk.js.map": "/javadurai/my-resume/static/js/2.cbff8f61.chunk.js.map",
+  "index.html": "/javadurai/my-resume/index.html",
+  "precache-manifest.4aa44044fcabbfa6bfa7cb98369941d2.js": "/javadurai/my-resume/precache-manifest.4aa44044fcabbfa6bfa7cb98369941d2.js",
+  "service-worker.js": "/javadurai/my-resume/service-worker.js",
+  "static/css/2.b78eee94.chunk.css.map": "/javadurai/my-resume/static/css/2.b78eee94.chunk.css.map",
+  "static/css/main.5d688a23.chunk.css.map": "/javadurai/my-resume/static/css/main.5d688a23.chunk.css.map",
+  "static/media/font-awesome.css": "/javadurai/my-resume/static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/styles.css": "/javadurai/my-resume/static/media/texture2.ab9ff1af.jpg"
 }
