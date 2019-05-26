@@ -1,0 +1,147 @@
+{
+  "name": {
+    "firstname": "Jabadurai",
+    "lastname": "Selvaraj"
+  },
+  "picture": {
+    "url": "https://cdn140.picsart.com/296515330208201.png",
+    "width": "220",
+    "height": "220"
+  },
+  "contact": {
+    "mobile": "+52 3329195711",
+    "email": "jabadurai.s@gmail.com",
+    "address": [
+      "Av Guadalupe 4885, Jardines de Guadalupe",
+      "45030 Guadalajara, Jal., Mex"
+    ]
+  },
+  "summary": [
+    "Having 8 years of professional software development and designing experience in the web application using various frameworks (Apache Struts, Spring, Servlets) in Java.",
+    "Have been Scrum Master of a development team with most successful sprints.",
+    "Equivalent 8 years of professional experience in Oracle programming, Designing Solutions, and Debugging.",
+    "Designed solutions for Continuous Integration & Continuous Delivery using various tools (Gradle, Gitlab CI and Urban Code Deploy).",
+    "Good Team Player with Excellent Technical & Interpersonal Skills."
+  ],
+  "professionalexperience": [
+    "HCL Technologies - Technical Lead (January 2017 – Till Now)",
+    "Infonovum Software & Consulting Pvt Ltd - Senior Software Engineer (December 2010 – January 2017)"
+  ],
+  "projects": [
+    {
+      "title": "USAA - Strategic Tax Solutions",
+      "priod": "January 2017 - Current",
+      "tools": "Eclipse, IBM Rational Team Concert, IBM RSA, GitLab, IBM Urban Code Deploy, JBoss, PL/SQL, Gradle",
+      "responsibilities": "User Interface creation using JSP/HTML, Designing pages using CSS, Solution Designing/Proposing, Technical user manual creation, Deployment of application",
+      "technologies": "Spring MVC, Spring Boot, REST, Gradle",
+      "teamsize": 10,
+      "role": "Technical Lead, Solution Designer, Developer (UI, Functional)",
+      "client": "https://www.usaa.com",
+      "summary": [
+        "We created three horizontal dependencies to serve all USAA products. This reduced the time/cost that we spent with the third-party and we were able to add multiple customized combination of tax solutions for various part of American states.",
+        "Designed multiple plugins for IBM Rational Team Concert (Reduced number of setups which required to start a Development Workspace).",
+        "Built plugins to cut the amount of time that needed setup local deployment server.",
+        "Built multiple process and plugins to cut down the number of steps that needed to get the software deployed using HCL Urban Code Deploy."
+      ]
+    },
+    {
+      "title": "Integrated Forfeiture Process",
+      "priod": "January 2016 - January 2017",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 8,
+      "role": "Scrum Master, Solution Designer, Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "On termination of the employee, awards and all portfolio share he holds on share system will go through the forfeiture process (He may get some amount of benefits if the company’s shared portfolio allows)."
+      ]
+    },
+    {
+      "title": "Integrated Payroll System",
+      "priod": "June 2015 - December 2015",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 7,
+      "role": "Scrum Master, Solution Designer, Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Automated and On-Demand payroll process for all plans offering by EWMGlobal such as Deferred Cash, Share Plans, Carried Interest, Co-Investment, Rewards."
+      ]
+    },
+    {
+      "title": "Equity Shares Distribution",
+      "priod": "January 2015 - June 2015",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 6,
+      "role": "Scrum Master, Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Distribution of equity shares includes Request placing module (Either by Employee or Employer), Tax calculation module (Tax per employee's global mobility), Bulk market order preparation, Settlement after distribution process, Communication of each stage to employee/administrator through emails"
+      ]
+    },
+    {
+      "title": "Administration of Equity Shares",
+      "priod": "April 2013 - January 2015",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 8,
+      "role": "Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Administration of all currently available equity plan types, generally defined by the underlying equity instrument: Restricted Stock Units, Restricted Stock Award, Share Appreciation Rights, Phantom Shares, Option Plans, Stock Purchase Plans & Performance Share Plans.",
+        "This project became a huge success since EWM Global entered into this competitive business at right time with a flexible solution than the existing business competitors."
+      ]
+    },
+    {
+      "title": "Automated Data-load Framework",
+      "priod": "August 2012 - April 2013",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 6,
+      "role": "Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "We created an automated data load framework which supports loading the variety of industry standard exchange file formats like EXCEL, TSV and CSV into client’s system tables with checks and validation as configured.",
+        "It became a horizontal dependency to support all EWMGlobal's applications."
+      ]
+    },
+    {
+      "title": "Administration of Deferred Compensation Plans",
+      "priod": "December 2010 - August 2012",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql]",
+      "teamsize": 6,
+      "role": "Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Built an application to administrate various Deferred Compensation plans such as: Private Equity plans, Carried Co-Invest plans, Cash Investment plans.",
+        "Have been in major part of application development including Web Pages Creation, Scheduled Batches Creation."
+      ]
+    }
+  ],
+  "academic": [
+    {
+      "course": "Master of Computer Applications",
+      "institution": "College of Engineering Guindy, Anna University",
+      "month_Year": "May 2014",
+      "gPA": "7.56"
+    },
+    {
+      "course": "Bachelor of Computer Applications",
+      "institution": "Annai Veilankannis Arts & Science College",
+      "month_Year": "May 2011",
+      "gPA": "7.39"
+    }
+  ],
+  "achievements": [
+    "Proved event-organizing skills by taking responsibility in team events.",
+    "Got many spot awards during the project development."
+  ]
+}
